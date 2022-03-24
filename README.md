@@ -1,6 +1,5 @@
 ### Hey 👋, I'm Monve
 
-[![Github](https://img.shields.io/github/followers/Monve?label=Follow&style=social)](https://github.com/Monve)
 ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3916?logoColor=white%26project=%26recentMS=0%26showProject=false)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMonveChen&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -9,9 +8,7 @@ Hi there, I'm Monve, a Node Engineering 🚀 from Hangzhou, China.
 - 🌱 I’m currently learning Nest.js, Docker and any technology that interests me;
 - 💬 Talk to me about new technology, I'll be interested;
 
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=MonveChen&hide=html&theme=dracula)
-
-![Monve's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=MonveChen&show_icons=true&count_private=true&line_height=33.7&theme=dracula)
+![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=MonveChen&hide=html&theme=dracula)  ![Monve's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=MonveChen&show_icons=true&count_private=true&line_height=33.7&theme=dracula)
 
 ### Stack I work with
 
@@ -29,7 +26,7 @@ Hi there, I'm Monve, a Node Engineering 🚀 from Hangzhou, China.
 <code><img height="50" src="https://www.vitejs.net/logo.svg"></code>
 <code><img height="50" src="https://aws1.discourse-cdn.com/business4/uploads/dfn/original/1X/a6d6c5b4e246cd075a009424601bc981b3086fb4.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ovpntech_logo-s_REVISED.png/440px-Ovpntech_logo-s_REVISED.png"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ovpntech_logo-s_REVISED.png/440px-Ovpntech_logo-s_REVISED.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
