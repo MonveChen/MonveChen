@@ -8,7 +8,7 @@ Hi there, I'm Monve, a Node Engineering 🚀 from Hangzhou, China.
 - 🌱 I’m currently learning Nest.js, Docker and any technology that interests me;
 - 💬 Talk to me about new technology, I'll be interested;
 
-![Monve's CodingTypes](https://wakatime.com/share/@7c6998d1-dd82-433b-b7d2-fa383a5c28b2/5d7db8a8-3298-4695-ae55-3fd5ae01e207.svg){:height="100px" width="100px"}
+<img src="https://wakatime.com/share/@7c6998d1-dd82-433b-b7d2-fa383a5c28b2/5d7db8a8-3298-4695-ae55-3fd5ae01e207.svg" width="500px" /><img src="https://wakatime.com/share/@7c6998d1-dd82-433b-b7d2-fa383a5c28b2/9e0d2f7a-9d8b-43a4-9719-6806ffcd56d1.svg" width="500px" />
 
 ![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=MonveChen&hide=html&theme=dracula)  ![Monve's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=MonveChen&show_icons=true&count_private=true&line_height=33.7&theme=dracula)
 
