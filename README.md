@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Monve
 
-![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3916?logoColor=white%26project=%26recentMS=0%26showProject=false)
+[![wakatime](https://wakatime.com/badge/user/7c6998d1-dd82-433b-b7d2-fa383a5c28b2.svg)](https://wakatime.com/@7c6998d1-dd82-433b-b7d2-fa383a5c28b2)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMonveChen&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hi there, I'm Monve, a Node Engineering 🚀 from Hangzhou, China.
